@@ -1,7 +1,7 @@
 # Melbourne Housing Market
 
 
-# Global AI Hub
+## Global AI Hub
 Global AI Hub is one of the globally leading AI communities with reach to young AI talents, AI professionals, experts and AI enthusiast around the world.
 (https://www.globalaihub.com/ || https://10million.ai/)
 
@@ -36,3 +36,6 @@ Sales Method: The method of the sales transaction (e.g. auction, direct sale).
 Seller and Local Government: Sellers of houses and local government areas.
 
 Dataset Link : https://www.kaggle.com/datasets/anthonypino/melbourne-housing-market
+
+Kaggle Link : https://www.kaggle.com/code/iozdemir/melbourne-housing-market-data-analysis
+
